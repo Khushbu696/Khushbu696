@@ -23,10 +23,10 @@
 ---
 
 ## 📌 Projects
-- 🧠 **FlipMind** – Memory game with smooth animations (React)
-- ✨ **QuoteCraft** – Random motivational quote generator (React)
-- 🌦 **Weather App** – Real-time weather app
-- 📝 **To-Do App & Calculator** – Practice projects
+-  **CodeQuery** – Developer Q&A platform with AI-powered moderation (MERN)
+-  **API Rate Limiter** – Real-time API Rate Limiter & Monitoring System (Spring Boot & Next.js)
+-  **MindBlomm** – Mental Wellness Tracker (MERN)
+-  **Leave Management** – Leave management application (Java)
 
 ---
 
